@@ -8,4 +8,4 @@ As **normal**, I produce house music and run Normal Records. I also built **Norm
 
 This GitHub is where I build, experiment, and share the systems behind both sides of my work.
 
-[Substack](https://yashwanthm.substack.com) · [LinkedIn](https://www.linkedin.com/in/myashwanth/) · [Medium](https://medium.com/@yashwanthm) · [X](https://x.com/yashwanthm_) · [Music](https://yashwanthm.github.io/normal/)
+[Substack](https://yashwanthm.substack.com) · [LinkedIn](https://www.linkedin.com/in/myashwanth/) · [Medium](https://medium.com/@yashwanthm) · [X](https://x.com/yashwanthm_) · [Music](https://yashwanthm.github.io/normal/) · [Hugging Face](https://huggingface.co/nrmldays)

@@ -6,4 +6,4 @@ Most enterprise AI fails after the demo, not because of the model, but because t
 
 Explore my repos below.
 
-[Substack](https://yashwanthm.substack.com) · [LinkedIn](https://www.linkedin.com/in/myashwanth/) · [Medium](https://medium.com/@yashwanthm) · [X](https://x.com/yashwanthm_)
+[Substack](https://yashwanthm.substack.com) · [LinkedIn](https://www.linkedin.com/in/myashwanth/) · [Medium](https://medium.com/@yashwanthm) · [X](https://x.com/yashwanthm_) · [Music](https://yashwanthm.github.io/normal/)
